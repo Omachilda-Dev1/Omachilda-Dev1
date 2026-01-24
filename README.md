@@ -67,37 +67,37 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omachilda-Dev1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omachilda-Dev1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omachilda-Dev1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Omachilda-Dev1&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omachilda-Dev1&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🎯 Current Focus
 
 ```javascript
 const currentFocus = {
-    learning: ["Machine Learning", "Cloud Architecture", "DevOps"],
-    building: ["Personal Portfolio", "Open Source Tools"],
-    reading: ["Clean Code", "System Design"],
-    goals: ["Contribute to major OSS projects", "Build scalable applications"]
+    learning: ["Blockchain Development", "Smart Contract Security", "DeFi Protocols"],
+    building: ["DApp Portfolio", "NFT Marketplace", "Web3 Tools"],
+    reading: ["Mastering Ethereum", "Smart Contract Best Practices"],
+    goals: ["Launch successful DApp", "Contribute to Web3 ecosystem"]
 };
 ```
 
@@ -121,13 +121,13 @@ const currentFocus = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Omachilda-Dev1/Omachilda-Dev1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Omachilda-Dev1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
