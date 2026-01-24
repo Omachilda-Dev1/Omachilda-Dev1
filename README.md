@@ -1,8 +1,27 @@
-# Hi there! 👋 I'm [Your Name]
+<h1 align="center" style="
+  color:#FF69B4;
+  text-shadow:
+    0 0 8px #ff69b4,
+    0 0 16px #ff2fd6,
+    0 0 32px #8a2be2,
+    0 0 48px #00bfff;
+">
+</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi+I'm+Chioma+Ogbonna;Full+Stack+Developer;Building+Clean+Scalable+Web+Apps;Open+Source+Enthusiast;Always+Learning+New+Things"
+    alt="Typing SVG"
+    style="
+      filter:
+        drop-shadow(0 0 8px #ff69b4)
+        drop-shadow(0 0 16px #ff2fd6)
+        drop-shadow(0 0 28px #8a2be2)
+        drop-shadow(0 0 40px #00bfff);
+    "
+  />
 </div>
+
 
 ## 🚀 About Me
 
@@ -10,7 +29,7 @@
 - 🌱 I'm currently learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **polichilda66@gmail.com**
 - ⚡ Fun fact: **I love coding and coffee!**
 
 ## 🛠️ Tech Stack
@@ -38,10 +57,31 @@
 ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### Frontend Technologies
+
+#### 🎨 Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+
+#### 🎞️ Animation & Motion
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+#### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+#### 🧠 State & Data
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+#### 🛠️ Core Web
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Design Tools
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
@@ -80,15 +120,39 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omachilda-Dev1&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Omachilda-Devv&theme=dracula&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omachilda-Dev1&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+
+  <!-- GitHub Stats Card -->
+  ![GitHub Stats](https://img.shields.io/badge/GitHub-Omachilda--Dev1-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+  
+  <!-- Commits -->
+  ![Commits](https://img.shields.io/badge/Commits-1000%2B-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+  
+  <!-- Repositories -->
+  ![Repositories](https://img.shields.io/badge/Repositories-30%2B-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+  
+  <!-- Pull Requests -->
+  ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-50%2B-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+  
+  <!-- Stars -->
+  ![Stars](https://img.shields.io/badge/Stars-200%2B-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+  
+</p>
+
 
 ## 🎯 Current Focus
 
@@ -105,10 +169,10 @@ const currentFocus = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chioma-ogbonna-a51b75121/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Omachilda_Dev)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](polichilda66@gmail.com)
 
 </div>
 
