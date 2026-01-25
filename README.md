@@ -10,7 +10,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi+I'm+Chioma+Ogbonna;Full+Stack+Developer;Building+Clean+Scalable+Web+Apps;Open+Source+Enthusiast;Always+Learning+New+Things"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi+I'm+Chioma+Ogbonna;Frontend+Developer;Building+Clean+Scalable+Web+Apps;Open+Source+Enthusiast;Always+Learning+New+Things"
     alt="Typing SVG"
     style="
       filter:
