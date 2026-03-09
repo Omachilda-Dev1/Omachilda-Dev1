@@ -24,13 +24,21 @@
 
 
 ## 🚀 About Me
+A dedicated software developer specializing in frontend engineering and MERN stack, with hands-on experience building scalable applications across eCommerce, DeFi, EdTech, AgriTech, MedTech, and Web3 movie DApps.
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **polichilda66@gmail.com**
-- ⚡ Fun fact: **I love coding and coffee!**
+### 💻 Tech Stack & Expertise:
+React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Solidity, Web3 integrations, smart contracts, Vercel, cloud deployments. Skilled in AI prompt engineering and no-code automation, delivering functional, sleek, and user-friendly applications.
+
+### 🌍 Experience & Projects:
+Fully coding since 2024, I’ve built projects ranging from e-commerce platforms and DeFi dashboards to AI-powered EdTech and Web3 solutions, showcasing adaptability to fast-moving technologies.
+
+### 🔧 Current Focus:
+Expanding into advanced blockchain engineering and strengthening backend development to complement my frontend and full-stack expertise.
+
+### ⚡ Work Style & Values:
+I thrive in collaborative, problem-solving environments, turning innovative ideas into production-ready applications.
+
+### 📌 Core Values: Excellence • Integrity • Innovation • Growth
 
 ## 🛠️ Tech Stack
 
@@ -154,24 +162,13 @@
 </p>
 
 
-## 🎯 Current Focus
-
-```javascript
-const currentFocus = {
-    learning: ["Blockchain Development", "Smart Contract Security", "DeFi Protocols"],
-    building: ["DApp Portfolio", "NFT Marketplace", "Web3 Tools"],
-    reading: ["Mastering Ethereum", "Smart Contract Best Practices"],
-    goals: ["Launch successful DApp", "Contribute to Web3 ecosystem"]
-};
-```
-
 ## 📫 Connect with Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chioma-ogbonna-a51b75121/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Omachilda_Dev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://omachilda.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](polichilda66@gmail.com)
 
 </div>
