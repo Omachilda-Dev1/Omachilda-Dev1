@@ -24,13 +24,13 @@
 
 
 ## 🚀 About Me
-A dedicated software developer specializing in frontend engineering and MERN stack, with hands-on experience building scalable applications across eCommerce, DeFi, EdTech, AgriTech, MedTech, and Web3 movie DApps.
+A dedicated software developer specializing in frontend engineering, with hands-on experience building scalable applications across eCommerce, DeFi, EdTech, AgriTech, MedTech, FinTech, PropertyTech and Web3 DApps.
 
 ### 💻 Tech Stack & Expertise:
 React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Solidity, Web3 integrations, smart contracts, Vercel, cloud deployments. Skilled in AI prompt engineering and no-code automation, delivering functional, sleek, and user-friendly applications.
 
 ### 🌍 Experience & Projects:
-Fully coding since 2024, I’ve built projects ranging from e-commerce platforms and DeFi dashboards to AI-powered EdTech and Web3 solutions, showcasing adaptability to fast-moving technologies.
+Fully coding since 2023, I’ve built projects ranging from e-commerce platforms and DeFi dashboards to AI-powered EdTech and Web3 solutions, showcasing adaptability to fast-moving technologies.
 
 ### 🔧 Current Focus:
 Expanding into advanced blockchain engineering and strengthening backend development to complement my frontend and full-stack expertise.
