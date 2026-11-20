@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Chioma Ogbonna — Frontend Engineer, Web3 Builder, Visual Designer">
+  <defs>
+    <!-- Kente weave -->
+    <pattern id="kente" width="96" height="36" patternUnits="userSpaceOnUse">
+      <rect width="96" height="36" fill="#E8A317"/>
+      <rect x="0" width="10" height="36" fill="#0D0D0D"/>
+      <rect x="10" width="6" height="36" fill="#1E7B3A"/>
+      <rect x="16" width="6" height="36" fill="#C1272D"/>
+      <rect x="22" width="4" height="36" fill="#0D0D0D"/>
+      <rect x="30" y="5" width="40" height="4" fill="#0D0D0D"/>
+      <rect x="30" y="13" width="40" height="3" fill="#1E7B3A"/>
+      <rect x="30" y="20" width="40" height="3" fill="#C1272D"/>
+      <rect x="30" y="27" width="40" height="4" fill="#0D0D0D"/>
+      <rect x="74" width="22" height="36" fill="#0D0D0D"/>
+      <rect x="76" y="2" width="8" height="8" fill="#E8A317"/>
+      <rect x="86" y="10" width="8" height="8" fill="#E8A317"/>
+      <rect x="76" y="18" width="8" height="8" fill="#C1272D"/>
+      <rect x="86" y="26" width="8" height="8" fill="#1E7B3A"/>
+    </pattern>
+    <!-- Bogolan (mudcloth) texture -->
+    <pattern id="mud" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M10 10 L20 20 M20 10 L10 20" stroke="#F5E6C8" stroke-width="1.4" opacity=".09"/>
+      <circle cx="45" cy="15" r="2" fill="#F5E6C8" opacity=".08"/>
+      <path d="M35 45 h20 M35 50 h20" stroke="#F5E6C8" stroke-width="1.2" opacity=".07"/>
+      <circle cx="15" cy="45" r="5" fill="none" stroke="#F5E6C8" stroke-width="1.2" opacity=".07"/>
+    </pattern>
+    <radialGradient id="glow" cx="18%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#C8553D" stop-opacity=".45"/>
+      <stop offset=".55" stop-color="#5A2414" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#140B07" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFD36B"/>
+      <stop offset=".5" stop-color="#E8A317"/>
+      <stop offset="1" stop-color="#C8553D"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="nameClip"><text x="340" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="4">CHIOMA OGBONNA</text></clipPath>
+    <style>
+      .fade { animation: up 1s ease-out both; }
+      .d1 { animation-delay: .2s } .d2 { animation-delay: .5s } .d3 { animation-delay: .8s } .d4 { animation-delay: 1.1s } .d5 { animation-delay: 1.4s }
+      @keyframes up { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: translateY(0) } }
+      .spin { transform-origin: 175px 210px; animation: spin 40s linear infinite; }
+      .spinR { transform-origin: 175px 210px; animation: spin 26s linear infinite reverse; }
+      @keyframes spin { to { transform: rotate(360deg) } }
+      .pulse { transform-origin: 175px 210px; animation: pulse 3.2s ease-in-out infinite; }
+      @keyframes pulse { 50% { transform: scale(1.06) } }
+      .sweep { animation: sweep 5s ease-in-out 2s infinite; }
+      @keyframes sweep { from { transform: translateX(-300px) } 60%,to { transform: translateX(900px) } }
+      .drift { animation: drift 8s linear infinite; }
+      @keyframes drift { to { transform: translateX(-96px) } }
+      .driftR { animation: driftR 8s linear infinite; }
+      @keyframes driftR { from { transform: translateX(-96px) } to { transform: translateX(0) } }
+      .sans { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="420" fill="#140B07"/>
+  <rect width="1200" height="420" fill="url(#mud)"/>
+  <rect width="1200" height="420" fill="url(#glow)"/>
+
+  <!-- Kente bands (animated weave drift) -->
+  <g class="drift"><rect x="0" y="0" width="1296" height="36" fill="url(#kente)"/></g>
+  <g class="driftR"><rect x="0" y="384" width="1296" height="36" fill="url(#kente)"/></g>
+  <rect y="36" width="1200" height="3" fill="#0D0D0D"/>
+  <rect y="39" width="1200" height="2" fill="#E8A317"/>
+  <rect y="379" width="1200" height="2" fill="#E8A317"/>
+  <rect y="381" width="1200" height="3" fill="#0D0D0D"/>
+
+  <!-- Adinkrahene sun (symbol of greatness & leadership) -->
+  <g class="spin">
+    <g fill="#E8A317" opacity=".9">
+      <path d="M175 70 l10 32 h-20z"/><path d="M175 350 l10 -32 h-20z"/>
+      <path d="M35 210 l32 10 v-20z"/><path d="M315 210 l-32 10 v-20z"/>
+      <path d="M76 111 l29 16 l-14 14z"/><path d="M274 309 l-29 -16 l14 -14z"/>
+      <path d="M274 111 l-16 29 l-14 -14z"/><path d="M76 309 l16 -29 l14 14z"/>
+    </g>
+    <g fill="#C1272D">
+      <path d="M175 88 l6 18 h-12z" transform="rotate(22.5 175 210)"/>
+      <path d="M175 88 l6 18 h-12z" transform="rotate(67.5 175 210)"/>
+      <path d="M175 88 l6 18 h-12z" transform="rotate(112.5 175 210)"/>
+      <path d="M175 88 l6 18 h-12z" transform="rotate(157.5 175 210)"/>
+      <path d="M175 88 l6 18 h-12z" transform="rotate(202.5 175 210)"/>
+      <path d="M175 88 l6 18 h-12z" transform="rotate(247.5 175 210)"/>
+      <path d="M175 88 l6 18 h-12z" transform="rotate(292.5 175 210)"/>
+      <path d="M175 88 l6 18 h-12z" transform="rotate(337.5 175 210)"/>
+    </g>
+  </g>
+  <g class="spinR">
+    <circle cx="175" cy="210" r="98" fill="none" stroke="#F5E6C8" stroke-width="2" stroke-dasharray="4 10" opacity=".55"/>
+  </g>
+  <g class="pulse">
+    <circle cx="175" cy="210" r="82" fill="#1A0F0A" stroke="#E8A317" stroke-width="10"/>
+    <circle cx="175" cy="210" r="56" fill="none" stroke="#C1272D" stroke-width="9"/>
+    <circle cx="175" cy="210" r="32" fill="none" stroke="#1E7B3A" stroke-width="9"/>
+    <circle cx="175" cy="210" r="12" fill="#E8A317"/>
+  </g>
+
+  <!-- Text block -->
+  <g class="fade d1">
+    <rect x="340" y="92" width="6" height="22" fill="#C1272D"/>
+    <text x="356" y="110" class="sans" font-size="17" letter-spacing="6" fill="#E8A317" font-weight="600">NNỌỌ · WELCOME · I'M</text>
+  </g>
+  <g class="fade d2">
+    <text x="340" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="4" fill="url(#gold)">CHIOMA OGBONNA</text>
+    <g clip-path="url(#nameClip)"><g class="sweep"><rect x="340" y="140" width="160" height="90" fill="url(#shine)" transform="skewX(-20)"/></g></g>
+  </g>
+  <g class="fade d3">
+    <text x="342" y="258" class="sans" font-size="24" fill="#F5E6C8" letter-spacing="1">Frontend Engineer  <tspan fill="#C8553D">◆</tspan>  Web3 Builder  <tspan fill="#C8553D">◆</tspan>  Visual Designer</text>
+  </g>
+
+  <!-- Ndebele zigzag -->
+  <g class="fade d4">
+    <path d="M342 286 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10" fill="none" stroke="#E8A317" stroke-width="2.5"/>
+    <path d="M342 294 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10 l12 -10 l12 10" fill="none" stroke="#1E7B3A" stroke-width="2.5"/>
+  </g>
+
+  <!-- Tag pills -->
+  <g class="fade d5 sans" font-size="15" font-weight="600" text-anchor="middle">
+    <rect x="342" y="316" width="118" height="34" rx="17" fill="#C1272D"/><text x="401" y="338" fill="#FFF">React · Next</text>
+    <rect x="472" y="316" width="118" height="34" rx="17" fill="#1E7B3A"/><text x="531" y="338" fill="#FFF">TypeScript</text>
+    <rect x="602" y="316" width="118" height="34" rx="17" fill="#E8A317"/><text x="661" y="338" fill="#140B07">Solidity</text>
+    <rect x="732" y="316" width="118" height="34" rx="17" fill="#F5E6C8"/><text x="791" y="338" fill="#140B07">UI · Design</text>
+    <rect x="862" y="316" width="118" height="34" rx="17" fill="none" stroke="#C8553D" stroke-width="2"/><text x="921" y="338" fill="#F5E6C8">Since 2023</text>
+  </g>
+
+  <!-- Right edge triangle column -->
+  <g opacity=".85">
+    <path d="M1130 60 l40 20 l-40 20z M1130 110 l40 20 l-40 20z M1130 160 l40 20 l-40 20z M1130 210 l40 20 l-40 20z M1130 260 l40 20 l-40 20z M1130 310 l40 20 l-40 20z" fill="#C1272D"/>
+    <path d="M1170 85 l-40 20 l40 20z M1170 135 l-40 20 l40 20z M1170 185 l-40 20 l40 20z M1170 235 l-40 20 l40 20z M1170 285 l-40 20 l40 20z" fill="#E8A317" opacity=".8"/>
+  </g>
+</svg>

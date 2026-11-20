@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Current Focus">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FFD36B"/><stop offset="1" stop-color="#C8553D"/></linearGradient>
+    <style>
+      .t{animation:in .9s ease-out .1s both}@keyframes in{from{opacity:0;transform:translateX(-16px)}to{opacity:1;transform:none}}
+      .z{stroke-dasharray:900;animation:draw 2.2s ease-out .4s both}@keyframes draw{from{stroke-dashoffset:900}to{stroke-dashoffset:0}}
+      .s{transform-origin:46px 46px;animation:sp 18s linear infinite}@keyframes sp{to{transform:rotate(360deg)}}
+    </style>
+  </defs>
+  <rect width="1200" height="96" rx="14" fill="#140B07"/>
+  <rect x="0" y="0" width="10" height="96" fill="#C1272D"/><rect x="10" y="0" width="6" height="96" fill="#E8A317"/><rect x="16" y="0" width="4" height="96" fill="#1E7B3A"/>
+  <g transform="translate(14 2)"><g class="s"><path d="M30 30 A22 22 0 1 0 62 30" fill="none" stroke="#E8A317" stroke-width="5" stroke-linecap="round"/><path d="M46 12 L52 28 L46 24 L40 28 Z" fill="#C1272D"/><circle cx="46" cy="50" r="9" fill="#1E7B3A"/></g></g>
+  <g class="t">
+    <text x="106" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" letter-spacing="2" fill="url(#g)">Current Focus</text>
+    <text x="108" y="78" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3" fill="#F5E6C8" opacity=".8">OSRAM NE NSOROMMA · FAITHFULNESS &amp; HARMONY</text>
+  </g>
+  <path class="z" d="M760 58 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12 l14 -12 l14 12" fill="none" stroke="#E8A317" stroke-width="3"/>
+  <rect x="1180" y="0" width="20" height="96" fill="#C1272D"/><rect x="1176" y="0" width="4" height="96" fill="#E8A317"/>
+</svg>

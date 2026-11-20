@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Daalụ — thank you for visiting">
+  <defs>
+    <pattern id="kente" width="96" height="28" patternUnits="userSpaceOnUse">
+      <rect width="96" height="28" fill="#E8A317"/>
+      <rect width="10" height="28" fill="#0D0D0D"/><rect x="10" width="6" height="28" fill="#1E7B3A"/><rect x="16" width="6" height="28" fill="#C1272D"/>
+      <rect x="30" y="5" width="40" height="3" fill="#0D0D0D"/><rect x="30" y="12" width="40" height="3" fill="#1E7B3A"/><rect x="30" y="19" width="40" height="3" fill="#C1272D"/>
+      <rect x="74" width="22" height="28" fill="#0D0D0D"/><rect x="77" y="3" width="7" height="7" fill="#E8A317"/><rect x="86" y="12" width="7" height="7" fill="#C1272D"/><rect x="77" y="19" width="7" height="7" fill="#1E7B3A"/>
+    </pattern>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FFD36B"/><stop offset="1" stop-color="#C8553D"/></linearGradient>
+    <style>
+      .m{animation:m 8s linear infinite}@keyframes m{to{transform:translateX(-96px)}}
+      .f{animation:f 1.2s ease-out .3s both}@keyframes f{from{opacity:0}to{opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="200" fill="#140B07"/>
+  <text class="f" x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" letter-spacing="3" fill="url(#g)">Daalụ — Thank You For Visiting</text>
+  <text class="f" x="600" y="104" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#F5E6C8">“If you want to go fast, go alone. If you want to go far, go together.”</text>
+  <text class="f" x="600" y="132" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="4" fill="#E8A317">— AFRICAN PROVERB</text>
+  <g class="m"><rect x="0" y="172" width="1296" height="28" fill="url(#kente)"/></g>
+  <rect y="168" width="1200" height="4" fill="#E8A317"/>
+</svg>

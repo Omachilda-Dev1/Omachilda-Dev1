@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40" role="img" aria-label="Kente divider">
+  <defs>
+    <pattern id="k" width="48" height="14" patternUnits="userSpaceOnUse">
+      <rect width="48" height="14" fill="#E8A317"/>
+      <rect width="6" height="14" fill="#0D0D0D"/><rect x="6" width="4" height="14" fill="#1E7B3A"/><rect x="10" width="4" height="14" fill="#C1272D"/>
+      <rect x="18" y="3" width="18" height="2" fill="#0D0D0D"/><rect x="18" y="9" width="18" height="2" fill="#C1272D"/>
+      <rect x="38" width="10" height="14" fill="#0D0D0D"/><rect x="40" y="2" width="4" height="4" fill="#E8A317"/><rect x="42" y="8" width="4" height="4" fill="#1E7B3A"/>
+    </pattern>
+    <style>.m{animation:m 6s linear infinite}@keyframes m{to{transform:translateX(-48px)}}
+    .r{transform-origin:600px 20px;animation:r 12s linear infinite}@keyframes r{to{transform:rotate(360deg)}}</style>
+  </defs>
+  <g class="m"><rect x="0" y="13" width="1248" height="14" fill="url(#k)"/></g>
+  <rect x="540" y="0" width="120" height="40" fill="#140B07"/>
+  <path d="M540 13 l-10 7 l10 7z M660 13 l10 7 l-10 7z" fill="#140B07"/>
+  <g class="r"><path d="M600 2 l18 18 l-18 18 l-18 -18z" fill="#C1272D"/></g>
+  <circle cx="600" cy="20" r="10" fill="none" stroke="#E8A317" stroke-width="3"/>
+  <circle cx="600" cy="20" r="4" fill="#E8A317"/>
+  <circle cx="562" cy="20" r="4" fill="#1E7B3A"/><circle cx="638" cy="20" r="4" fill="#1E7B3A"/>
+</svg>
