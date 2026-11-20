@@ -17,39 +17,7 @@
 
 <img src="./assets/header-about.svg" width="100%" alt="About Me" />
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-I'm a **frontend engineer** who builds fast, scalable, beautiful products, from eCommerce storefronts and DeFi dashboards to AI-powered EdTech and on-chain DApps.
-
-I've been coding full-time since **2023**, shipping across:
-
-> 🛍️ **eCommerce** · 💸 **DeFi** · 🎓 **EdTech** · 🌾 **AgriTech** · 🩺 **MedTech** · 🏦 **FinTech** · 🏘️ **PropTech** · ⛓️ **Web3**
-
-My background in **graphic design** shapes how I code. I think in grids, colour and rhythm first, then make the interface clean in the browser too. I'm comfortable with AI prompt engineering and no-code automation, and I do my best work on collaborative teams that turn bold ideas into production-ready apps.
-
-</td>
-<td width="42%" valign="top">
-
-```js
-const chioma = {
-  roots:     "🌍 Africa",
-  role:      "Frontend Engineer",
-  alsoDoes:  ["Web3", "UI Design", "Branding"],
-  stack:     ["React", "Next.js", "TypeScript",
-              "Node", "Solidity"],
-  design:    ["Photoshop", "Illustrator",
-              "Canva", "Affinity", "Figma"],
-  values:    ["Excellence", "Integrity",
-              "Innovation", "Growth"],
-  motto:     "Ubuntu: I am because we are",
-};
-```
-
-</td>
-</tr>
-</table>
+<img src="./assets/about.svg" width="100%" alt="About Chioma: frontend engineer building fast, scalable, beautiful products across eCommerce, DeFi, EdTech, AgriTech, MedTech, FinTech, PropTech and Web3, coding full-time since 2023, with a graphic design background." />
 
 <img src="./assets/header-focus.svg" width="100%" alt="Current Focus" />
 
