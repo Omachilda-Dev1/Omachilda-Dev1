@@ -98,7 +98,7 @@
 <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
 <img src="https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Affinity-9DE89A?style=for-the-badge&logoColor=0F1F12" />
+<img src="https://img.shields.io/badge/Affinity-A8F25C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 <sub><i>Brand identities · social campaigns · UI mockups · illustrations · pitch decks</i></sub>
